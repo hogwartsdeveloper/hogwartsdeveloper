@@ -30,6 +30,15 @@
   </a>
 </div>
 
+<hr />
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br />
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,rabbitmq,docker" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,angular,html,css,git,tailwind" /><br>
+</div>
+
 <!--
 **hogwartsdeveloper/hogwartsdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
