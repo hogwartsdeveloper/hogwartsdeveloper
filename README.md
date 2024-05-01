@@ -8,6 +8,16 @@
 
 <br />
 
+<div align="center">
+    
+ 🔭 I’m currently working on **a habit control app**
+ 
+ 🌱 I’m currently learning **.NET Core, C#**
+
+💬 Ask me about **JS, TypeScript, ThreeJS, Node.js, Angular... or anything [here](https://github.com/hogwartsdeveloper/hogwartsdeveloper/issues)**
+
+ </div>
+
 <!--
 **hogwartsdeveloper/hogwartsdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
