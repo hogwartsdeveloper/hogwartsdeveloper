@@ -1,4 +1,12 @@
-### Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hogwartsdeveloper.hogwartsdeveloper" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Zhannur+Akhmetkhanov!;" />
+</h1>
+
+<h3 align="center">Software developer from Kazakhstan 🇰🇿</h3>
+
+<br />
 
 <!--
 **hogwartsdeveloper/hogwartsdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
